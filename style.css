@@ -1,0 +1,33 @@
+/* Estilos globales */
+* {
+    color: #1dee0a; /* Color de texto */
+    background-color: #f4f4f4; /* Color de fondo */
+    text-align: justify; /* Justificación del texto */
+    margin: 0; /* Elimina márgenes por defecto */
+    padding: 10px; /* Espaciado interno */
+    background-image: url('images.1.jfif'); /* Cambia la ruta a la imagen */
+    
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    text-align: center; /* Centra el contenido del cuerpo */
+    
+}
+
+h1 {
+    color: rgb(243, 102, 8);
+}
+
+h2 {
+    color: rgb(13, 207, 255);
+}
+
+p {
+    font-size: 16px;
+}
+
+ul {
+    margin: 10px 0;
+}
